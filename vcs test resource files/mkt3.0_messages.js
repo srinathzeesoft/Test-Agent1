@@ -15,6 +15,9 @@ Mkt3L10n.adminDkimDomainDetailsForm = {
   TXT_Value: "TXT Value",
   TXT_Value: "TXT Value",
   TXT_Value: "TXT Value",
+   TXT_Value: "TXT Value",
+   TXT_Value: "TXT Value",
+  TXT_Value: "TXT Value",
   Close: "Close"
 };
 
