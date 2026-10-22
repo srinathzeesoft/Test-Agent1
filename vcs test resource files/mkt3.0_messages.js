@@ -13,6 +13,8 @@ Mkt3L10n.adminDkimDomainDetailsForm = {
   Host_Record: "Host Record",
   Host_Record: "Host Record",
   TXT_Value: "TXT Value",
+  TXT_Value: "TXT Value",
+  TXT_Value: "TXT Value",
   Close: "Close"
 };
 
