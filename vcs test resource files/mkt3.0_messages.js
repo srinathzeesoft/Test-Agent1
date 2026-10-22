@@ -9,6 +9,8 @@ Mkt3L10n.adminDkimDomainDetailsForm = {
   Verify_your_domain: "Once added, verify your domain to enable signing.",
   Public_Key: "Public Key",
   Host_Record: "Host Record",
+  Host_Record: "Host Record",
+  Host_Record: "Host Record",
   TXT_Value: "TXT Value",
   Close: "Close"
 };
